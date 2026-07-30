@@ -1,6 +1,7 @@
 # Hi, I'm Santiago, and from Santiago... Santouc for the friends 👋
 
-I am from Chile. Passionate about programming and electronics in general; I am always eager to learn more about this field, and my favorite work involves *.c* and *.py*
+I am from Chile. Passionate about programming and electronics in general; I am always eager to learn more about this field, and my favorite work involves *.c* and *.py*. I've been programming since I was 14, so believe me, this is my life.
+
 
 Telematics Engineering student @ USM (Universidad Técnica Federico Santa María), building software that solves real accessibility problems. 
 
