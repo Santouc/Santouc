@@ -37,3 +37,4 @@ A real-time desktop application that translates sign language into text and spee
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-silva-06b44a416/)
 ssilvap@usm.cl
+Discord: santoccc.sossa
