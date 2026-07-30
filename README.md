@@ -2,8 +2,7 @@
 
 I am from Chile. Passionate about programming and electronics in general; I am always eager to learn more about this field, and my favorite work involves *.c* and *.py*. I've been programming since I was 14, so believe me, this is my life.
 
-
-Telematics Engineering student @ USM (Universidad Técnica Federico Santa María), building software that solves real accessibility problems. 
+Engineering student @ USM (Universidad Técnica Federico Santa María), building software that solves real accessibility problems. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-silva-06b44a416/)
 
