@@ -1,4 +1,4 @@
-# Hi, I'm Santiago, Santouc for the friends 👋
+# Hi, I'm Santiago, and from Santiago... Santouc for the friends 👋
 
 I am from Chile. Passionate about programming and electronics in general; I am always eager to learn more about this field, and my favorite work involves *.c* and *.py*
 
